@@ -1,0 +1,22 @@
+body {
+background: black url(../img/bg.jpeg) no-repeat top center fixed;
+color: #EEE;
+margin: 0;
+font-size: 14px;
+font-family: 'MuseoSans500', "Trebuchet MS", Trebuchet, arial, sans-serif;
+-o-background-size: cover;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: center top;
+}
+
+.container{
+	margin-top: 100px;
+}
+
+#text_box{
+	background: rgba(0,0,0,0.3);
+	padding: 30px;
+	border-radius: 10px;
+}
